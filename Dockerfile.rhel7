@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/rhel7/rhel
 
-MAINTAINER Louis P. Santillan <lpsantil@gmail.com>
+MAINTAINER Chad J. Hamilton <chad.j.hamilton@gmail.com> 
 
 WORKDIR /tmp
 
